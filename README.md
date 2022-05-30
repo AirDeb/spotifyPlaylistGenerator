@@ -20,5 +20,6 @@ If you have done that properly, you should be on the application. It will look s
 NOTE: The maximum number of songs you can enter is 100 because that is the maximum that Spotify's API allows. Otherwise, you will get an error message.
 The privacy tab is for whether you want your playlist public or private.
 
+Spotify periodically changes it's authorization into it's API, so if there's any issues feel free to let me know and I'll update the app. 
 
 Enjoy and happy listening!
