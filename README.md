@@ -1,5 +1,6 @@
 # spotifyPlaylistGenerator
 This generates a playlist for you based on your preferred genre, most recently listened music, top listened to artists, top tracks, top albums. 
+Copyright © 2022 AirDeb
 
 This playlist generator works more efficiently when you choose a genre that you listen to frequently based on the algorithm. 
 To access this, the client secret must be obtained by the developer for proper authorization of the API.
