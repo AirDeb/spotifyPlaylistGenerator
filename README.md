@@ -9,6 +9,9 @@ To access this, the client secret must be obtained by the developer for proper a
 
 Around 67%-82% of the songs will be from new artists that are similar to the ones you previously listened to.
 
+The spotipy library must be installed on your computer to use this program.
+On your terminal, type "pip install spotipy" (without the quotes) to download the library.
+
 
 IMPORTANT: Make sure you enter the username that is under your account overview under Spotify. Your username should be located here under your profile:
 ![image](https://user-images.githubusercontent.com/97564205/171031982-5efb53e6-6e93-480d-aa7a-54b6b839c81a.png)
