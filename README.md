@@ -29,4 +29,6 @@ The privacy tab is for whether you want your playlist public or private.
 
 Spotify periodically changes it's authorization into it's API, so if there's any issues feel free to let me know and I'll update the app. 
 
+UI Bug: After you click submit, when the program is running it will appear as it's not responding. It is still working it just takes a minute to finish the playlist. I have tried to fix the minor UI bug, but haven't come to a solution yet. Will look into it more soon.
+
 Enjoy and happy listening!
