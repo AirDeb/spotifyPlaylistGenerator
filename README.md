@@ -1,9 +1,13 @@
 # spotifyPlaylistGenerator
 This generates a playlist for you based on your preferred genre, most recently listened music, top listened to artists, top tracks, top albums. 
+
+
 Copyright © 2022 AirDeb
 
 This playlist generator works more efficiently when you choose a genre that you listen to frequently based on the algorithm. 
 To access this, the client secret must be obtained by the developer for proper authorization of the API.
+
+Around 67%-82% of the songs will be from new artists that are similar to the ones you previously listened to.
 
 
 IMPORTANT: Make sure you enter the username that is under your account overview under Spotify. Your username should be located here under your profile:
